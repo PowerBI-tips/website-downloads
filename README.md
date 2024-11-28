@@ -38,3 +38,8 @@ Scrims could also be referred to as a background, are images that are used behin
 [Learn more about Scrims](https://powerbi.tips/2019/12/introducing-scrims/)
 
 [Instructions on how to use a Scrim](https://powerbi.tips/2019/12/scrims-instructions/)
+
+## Lingo folder
+This was a build of a tool that was used to read the linguistics schema used in power bi files. You could download the linguistics schema from the Power BI Desktop application and then using this JSON editor change the schema to your liking.  
+
+For the original information on this tool visit the following blog post about Lingo [Power BI Lingo blog post](https://powerbi.tips/2018/04/introducing-lingo).
