@@ -30,6 +30,7 @@ This file links to the following tutorial videos:
 File download for the [Segmented Filtering with Slicers tutorial](https://powerbi.tips/2018/06/segmented-filtering-with-slicers/).  Thanks for visiting the site and I hope you are finding value in the content provided here.  If you like the content please consider supporting the site by purchasing this file.
 
 ## Layouts Folder
+Layouts are prebuild reports. No data just visuals and styling placed on pages. This was our initial design and thought for creating template reports for Power BI. However, over the years Power BI the product has evolved and now we have a full report builder experience. You can now build and download your own reports at the new [PowerBI.Tips Power Designer](https://tools.powerbi.tips).
 
 ## Scrims Folder
 Scrims could also be referred to as a background, are images that are used behind your visuals on a report page. Scrims add polish designs to your report. This folder contains collections of free scrims for you to use within your reports.  
